@@ -1,3 +1,3 @@
 ﻿# Predicting-NBA-Shots
 
-Fun little side project for predicting the outcome of NBA games.
+Fun little side project for predicting the shots of NBA players.
